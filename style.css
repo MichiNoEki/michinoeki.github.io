@@ -1,0 +1,18 @@
+body {
+	background-color: #EFEFEF;
+}
+
+h1 {
+	font-size: 24px;
+	margin-bottom: 12px;
+}
+
+h2 {
+	font-size: 18px;
+	margin-bottom: 0px;
+}
+
+p {
+	margin-top: 6px;
+	margin-bottom: 40px;
+}
