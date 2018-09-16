@@ -18,8 +18,7 @@ GitHub上で新しくページを作ったり編集したりできます
 </head>
 ```
 
-3. ヘルプページ以下のディレクトリに、`好きな名前.html`（これがページ名になる）で作って、HTMLを貼って保存
-   * ヘルプページ以下のディレクトリ→ https://github.com/MichiNoEki/michinoeki.github.io/tree/master/helps
+3. [ヘルプページディレクトリ](https://github.com/MichiNoEki/michinoeki.github.io/tree/master/helps)に、`好きな名前.html`（これがページ名になる）で作って、HTMLを貼って保存
    
 これでOK。`https://michinoeki.github.io/helps/好きな名前.html`に即時反映される
 
